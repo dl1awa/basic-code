@@ -1,6 +1,6 @@
 package com.dl1_.array;
 
-public class Text3 {
+public class Test3 {
     public static void main(String[] args) {
         //交换变量数据
         int a=10;

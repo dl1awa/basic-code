@@ -1,6 +1,6 @@
 package com.dl1_.array;
 
-public class Text2 {
+public class Test2 {
     public static void main(String[] args) {
         //需求:已知数组元素为{33,5,22,44,55}
         // 请找出数组中最大值并打印在控制台

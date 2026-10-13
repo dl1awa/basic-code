@@ -2,7 +2,7 @@ package com.dl1_.array;
 
 import java.util.Scanner;
 
-public class Text1 {
+public class Test1 {
     public static void main(String[] args) {
         //需求:已知数组元素为{33,5,22,44,55,33}
         //输出要求:
