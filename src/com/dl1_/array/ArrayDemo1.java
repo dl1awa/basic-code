@@ -1,7 +1,5 @@
 package com.dl1_.array;
 
-import javax.swing.*;
-
 public class ArrayDemo1 {
     public static void main(String[] args) {
         int agearr[] = new int[]{18, 19, 20};
