@@ -9,7 +9,7 @@ public class DebugDemo1 {
 
     public static void main(String[] args) {
         String[] names = {"张三", null, "王五"};
-        for (int i = 0; i < names.length; i++) {
+        for (int i = 0; i <= names.length; i++) {
             System.out.println(names[i].length());
         }
     }
