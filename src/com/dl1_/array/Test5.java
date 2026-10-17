@@ -19,12 +19,15 @@ public class Test5 {
             }
             if (count == 0) {
                 arr[i] = a;
-            }else {
+            } else {
                 i--;
             }
+            System.out.print(arr[i] + " ");//打印数组元素,但打印代码位置放置错误应该另起循环打印
         }
+        System.out.println();
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
         }
     }
 }
+
