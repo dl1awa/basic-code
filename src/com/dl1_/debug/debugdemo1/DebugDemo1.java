@@ -1,4 +1,4 @@
-package com.dl1_.debug;
+package com.dl1_.debug.debugdemo1;
 
 public class DebugDemo1 {
 
